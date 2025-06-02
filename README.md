@@ -1,16 +1,37 @@
-## Hi there 👋
 
-<!--
-**philgamer999/philgamer999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👨‍💻 The Lunatic Dev With A Purple Tophat And Monocle
 
-Here are some ideas to get you started:
+**I build single-purpose tools, automation scripts, and half-mad experiments — mostly to solve problems nobody else was weird enough to care about.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 Current Focus
+- Minimalist, single-purpose [C#](https://dotnet.microsoft.com/en-us/languages/csharp) applications
+- [Python](https://www.python.org/) scripts for automation and daily tooling
+
+## 🪧 Motto
+> "If it functions correctly, it's sufficient for now."
+
+## 🛠️ Tech I Use Often
+- **Languages**: [C#](https://dotnet.microsoft.com/en-us/languages/csharp), [Java](https://www.java.com/), [Python](https://www.python.org/)
+- **Frameworks**: [.NET](https://dotnet.microsoft.com/en-us/)
+- **Tools**: [GitHub](https://github.com/), [VS](https://visualstudio.microsoft.com/), [VSCode](https://code.visualstudio.com/), [Figma](https://www.figma.com/), [Unity](https://unity.com/), [IntelliJ](https://www.jetbrains.com/de-de/idea/)
+
+## 📜 Licenses I Use
+- **[MIT](https://mit-license.org/)**
+- **[AGPLv3](https://www.gnu.org/licenses/agpl-3.0.de.html)**
+- **[Educational and Proof of Concept Use Only](https://github.com/philgamer999/philgamer999/blob/ec69e55a0005d82b12e3bbb88cc6dbeba168486b/Licenses/Educational%20and%20Proof%20of%20Concept%20Use%20Only.txt)** (Custom)
+
+## 📆 Future Projects
+- **Automatic Watergun Turret**  – Motion-detection + servo control
+- **Home Server** – Media streaming + self-hosted apps + dynamic storage system
+- **Website** – Static site with interactive toys/tools + Portfolio
+- **AI Discord Bot** - Integration of LLMs in Discord servers
+- **Funshycord** - Custom Chat App with unique features and full customization 
+
+## 🤝 Reach Out
+Got a wild idea that sounds too crazy to build?
+Feel free to reach out to me!
+
+[@]() `Contact coming soon`
+
+---
+
