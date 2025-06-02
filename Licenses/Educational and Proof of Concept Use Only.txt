@@ -1,0 +1,54 @@
+Custom License for Educational and Proof of Concept Use Only
+
+Copyright (c) 2025 philgamer999
+
+Version 1.0 – Date: 02.06.2025
+
+-------------------------------
+DEUTSCHE FASSUNG (UNVERBINDLICHE ÜBERSETZUNG)
+-------------------------------
+
+Dieses Repository und sämtliche enthaltenen Dateien, Codes und Dokumentationen dienen ausschließlich Bildungs- und Demonstrationszwecken. Es handelt sich um ein Proof-of-Concept. Die Nutzung ist unter folgenden Bedingungen gestattet:
+
+1. **Eingeschränkter Nutzungszweck**  
+   Die Inhalte dürfen ausschließlich für private Bildungszwecke verwendet werden.  
+   Jegliche kommerzielle Nutzung, produktive Verwendung oder sicherheitskritische Anwendung ist **strengstens untersagt**.
+
+2. **Keine Modifikation zur Weiterverwendung**  
+   Es ist nicht gestattet, dieses Projekt ganz oder in Teilen zu verändern oder weiterzugeben, insbesondere nicht zur Integration in andere Softwareprojekte.
+
+3. **Keine Haftung**  
+   Die Nutzung der Inhalte erfolgt **auf eigenes Risiko**. Es wird **keinerlei Haftung** für Schäden, Datenverlust oder Folgeschäden übernommen, die direkt oder indirekt durch die Nutzung entstehen könnten.
+
+4. **Keine Garantie**  
+   Die Inhalte werden "wie besehen" bereitgestellt, **ohne jegliche Garantie** hinsichtlich Funktion, Sicherheit, Korrektheit oder Eignung für bestimmte Zwecke.
+
+5. **Verbot der missbräuchlichen Nutzung**  
+   Die Nutzung in Verbindung mit illegalen, schädlichen oder ethisch fragwürdigen Aktivitäten ist untersagt. Bei Verstoß entfällt jede Duldung der Nutzungslizenz.
+
+-------------------------------
+ENGLISH VERSION (LEGALLY BINDING)
+-------------------------------
+
+This repository and all contained files, code, and documentation are provided **for educational and proof-of-concept purposes only**. The use of these materials is subject to the following terms:
+
+1. **Limited Purpose**  
+   Use is permitted **solely for private educational purposes**.  
+   Any commercial use, deployment in production systems, or usage in safety-critical environments is **strictly prohibited**.
+
+2. **No Redistribution or Modification for Reuse**  
+   You may not modify or redistribute the contents, in part or in full, especially not for inclusion in other software projects or platforms.
+
+3. **No Liability**  
+   Use of the materials is **entirely at your own risk**.  
+   The author disclaims **all liability** for any direct, indirect, or consequential damages arising from the use of this repository.
+
+4. **No Warranty**  
+   The repository is provided "as is", **without warranty of any kind**, express or implied, including but not limited to warranties of merchantability or fitness for a particular purpose.
+
+5. **Prohibition of Misuse**  
+   Any use in connection with illegal, harmful, or ethically questionable activities is strictly forbidden. Violation voids all granted rights under this license.
+
+--------------------------------
+
+By accessing or using any part of this repository, you accept the terms of this license in full.
