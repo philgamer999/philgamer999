@@ -40,8 +40,14 @@ Feel free to reach out to me!
 
 [@]() `Links coming soon`
 
-[![EMail|48](https://raw.githubusercontent.com/philgamer999/philgamer999/refs/heads/main/resources/img/teamspeak.png)](https://github.com/philgamer999)
-[![Discord|48](https://raw.githubusercontent.com/philgamer999/philgamer999/refs/heads/main/resources/img/discord.png)](https://github.com/philgamer999)
-[![Twitter|48](https://raw.githubusercontent.com/philgamer999/philgamer999/refs/heads/main/resources/img/twitter.png)](https://github.com/philgamer999)
+<p><a href="https://github.com/philgamer999">
+<img src="https://raw.githubusercontent.com/philgamer999/philgamer999/refs/heads/main/resources/img/teamspeak.png" alt="https://github.com/philgamer999" width="48">
+</a></p>
+<p><a href="https://github.com/philgamer999">
+<img src="https://raw.githubusercontent.com/philgamer999/philgamer999/refs/heads/main/resources/img/discord.png" alt="https://github.com/philgamer999" width="48">
+</a></p>
+<p><a href="https://github.com/philgamer999">
+<img src="https://raw.githubusercontent.com/philgamer999/philgamer999/refs/heads/main/resources/img/twitter.png" alt="https://github.com/philgamer999" width="48">
+</a></p>
 
 ---
